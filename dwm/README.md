@@ -6,3 +6,5 @@ vsync = false
 Run promt: dmenu
 
 Wallpaper setter: nitrogen
+
+Status bar: slstatus
